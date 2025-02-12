@@ -1,0 +1,13 @@
+Para jugar al ahorcado:
+-Al inicio del programa se le solicitará que escriba alguno de los siguientes numeros: 1,2,3 o 4. Este numero representa el modo de juego.
+Se juega el ahorcado tradicional, donde tienes 8 vidas para adivinar la palabra. Por cada letra usada y que no la palabra no contiene, se le restará una vida
+hasta llegar a las 0 vidas, donde perderá el juego. El objetivo es adivinar la palabra escondida. Se mostrarán guiones por cada letra de la palabra pudiendo observar su cantidad.
+Se solicitarán las letras una a una, y cada vez que se escriba una letra que si pertenece a la palabra, los guiones serán reemplazados por la letra, dando a entender que ya
+está descubierta. Una vez descubierta toda la palabra, el jugador habrá ganado.
+
+MODOS DE JUEGO:
+1. FACIL: Las palabras se componen de 3 a 5 letras.
+2. INTERMEDIO: Las palabras se componen de 4 a 7 letras.
+3. DIFICIL: Las palabras se componen de 10 a 22 letras.
+4. ELEGIR PALABRA: Este modo está pensado para dos jugadores al menos. Donde uno iniciará eligiendo una palabra, y luego el otro jugador intentará adivinarla.
+
