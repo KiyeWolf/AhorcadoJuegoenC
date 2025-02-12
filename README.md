@@ -20,8 +20,14 @@ En el modo de juego ELEGIR PALABRA, como está pensado para dos jugadores, el pr
 5. Disfruta del ahorcado
 ---
 **BIBLIOTECAS**
+
 stdio.h  : Utilizado para mostrar mensajes al usuario por pantalla
+
 stdlib.h : Utilizado para pausas de pantalla y colores.
+
 string.h : Utilizado para manejar las cadenas de texto, con concatenamientos y reemplazos.
+
 windows.h: Utilizado para sonidos.
+
 time.h   : Utilizado para la aleatoriedad del juego.
+
