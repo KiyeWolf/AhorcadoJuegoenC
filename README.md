@@ -31,3 +31,5 @@ windows.h: Utilizado para sonidos.
 
 time.h   : Utilizado para la aleatoriedad del juego.
 
+---
+*Si te gusta dale una estrella⭐⭐⭐. Te lo agradecería*
