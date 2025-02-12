@@ -13,10 +13,11 @@ Existen 2 modos de juego existentes, uno ideado para modo individual y otro para
 En el modo de juego ELEGIR PALABRA, como está pensado para dos jugadores, el primer jugador ingresará una palabra y el segundo deberá adivinarla.
 ---
 **¿Cómo lo puedo probar?**
-1. Descarga el ejecutable ahorcado.exe.
-2. Mira el documento de texto INSTRUCCIONES.txt, por si no comprendes como jugar.
-3. Ejecuta el ahorcado, también puedes descargar y ejecutar el ahorcado.c desde cualquier entorno de desarrollo como Codeblocks o Visual Studio Code.
-4. Disfruta del ahorcado
+1. Ve a la rama/branch "master". Ahí se encuentran todos los archivos.
+2. Descarga el ejecutable ahorcado.exe.
+3. Mira el documento de texto INSTRUCCIONES.txt, por si no comprendes como jugar.
+4. Ejecuta el ahorcado, también puedes descargar y ejecutar el ahorcado.c desde cualquier entorno de desarrollo como Codeblocks o Visual Studio Code.
+5. Disfruta del ahorcado
 ---
 **BIBLIOTECAS**
 stdio.h  : Utilizado para mostrar mensajes al usuario por pantalla
