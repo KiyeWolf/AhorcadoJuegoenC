@@ -1,7 +1,11 @@
-***JUEGO DEL AHORCADO***
+JUEGO DEL AHORCADO
+
+
 Este es el juego del ahorcado en C. Este programa detalla, validaciones de ingresos por teclados, manejos de string con funciones y la biblioteca string.h, manejo de colores y funciones de pantalla. Está realizado en Codeblocks.
-----------------------------------------------------------------------------------------
+---
+
 *¿Cómo funciona?*
+
 Como el ahorcado tradicional, se sorteará una palabra. Por cada letra se ocultará reemplazandola por un Guión bajo, de manera que puedas saber la cantidad de letras de la palabra, pero no la misma.
 Existen 2 modos de juego existentes, uno ideado para modo individual y otro para al menos 2 jugadores. 
 En el modo de juego ELEGIR PALABRA, como está pensado para dos jugadores, el primer jugador ingresará una palabra y el segundo deberá adivinarla.
